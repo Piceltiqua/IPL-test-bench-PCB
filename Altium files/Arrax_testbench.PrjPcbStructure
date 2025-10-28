@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Digpot_load_cell_alim.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Digpot_load_cell_alim.SchDoc|FileName=Flow_sensors.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Digpot_load_cell_alim.SchDoc|FileName=Pressure_sensors.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Digpot_load_cell_alim.SchDoc|FileName=Teensy_IOexp_valve_transitors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Digpot_load_cell_alim.SchDoc|FileName=Thermocouples.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Digpot_load_cell_alim.SchDoc|FileName=Thermocouples_1.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Digpot_load_cell_alim.SchDoc|FileName=Valve_transistors.SchDoc|SheetNumber=5
